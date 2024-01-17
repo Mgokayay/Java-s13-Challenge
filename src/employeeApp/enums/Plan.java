@@ -1,9 +1,9 @@
 package employeeApp.enums;
 
 public enum Plan {
-    BASIC(name:"BASIC", price:3000),
-    MEDIUM(name:"MEDIUM",price:5000),
-    ADVANCE(name:"ADVANCE",price:9000);
+    BASIC("BASIC", 3000),
+    MEDIUM("MEDIUM",5000),
+    ADVANCE("ADVANCE",9000);
 
 
 
